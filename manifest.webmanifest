@@ -1,13 +1,13 @@
 {
-  "name": "Rep Match",
-  "short_name": "Rep Match",
+  "name": "Everyday Athlete",
+  "short_name": "Everyday",
   "description": "Pick muscles and gear, match a workout style, set your time, go.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#141113",
-  "theme_color": "#141113",
+  "background_color": "#151719",
+  "theme_color": "#151719",
   "icons": [
     {
       "src": "icons/icon-192.png",

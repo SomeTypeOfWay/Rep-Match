@@ -1,5 +1,5 @@
-// Rep Match service worker. The version changes with every build, so old caches are cleared.
-const CACHE = 'rep-match-59c33e49';
+// Everyday Athlete service worker. The version changes with every build, so old caches are cleared.
+const CACHE = 'everyday-athlete-5fb60fd9';
 const CORE = ['./', './index.html', './manifest.webmanifest', './icons/apple-touch-icon.png', './icons/icon-192.png', './icons/icon-512.png', './icons/favicon.svg'];
 
 self.addEventListener('install', e => {

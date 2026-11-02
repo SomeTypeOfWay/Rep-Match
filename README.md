@@ -1,21 +1,22 @@
-# Rep Match
+# Everyday Athlete
 
 Pick the muscles you want to train and the gear you have, match a workout style, set your time, and go.
 
 - 254 exercises, 16 warm-ups and 20 stretches, each with an animated keyframe demo and numbered steps
-- 11 workout styles: Classic Build, Heavy 5×5, Superset Pairs, Giant Sets, Circuit, EMOM, AMRAP, Tabata, Pyramid, High-Rep Burn, Slow Tempo
+- 6 workout styles, one per goal: Classic Build and Superset Pairs (muscle), Heavy 5×5 (strength), Circuit (conditioning), Tabata (HIIT), High-Rep Burn (endurance)
 - Plans fill the time you set, warm-up and cool-down included
-- Guided player with timers, beeps and a screen wake lock
+- Guided player with a now / next timeline, voice cues, timers and a screen wake lock
+- Get Ready checklist that tells you how to set up your station for the plan
 - Works offline once it has been opened, and installs to the iPhone Home Screen
 
 Everything runs in the browser. Your picks, skipped exercises and workout history are saved on your device only (browser local storage). Nothing is sent anywhere.
 
 ## Put it on GitHub Pages
 
-1. Create a new repository on GitHub, for example `rep-match`. It can be public, or private if your plan includes Pages for private repos.
+1. Create a new repository on GitHub, for example `everyday-athlete`. It can be public, or private if your plan includes Pages for private repos.
 2. Upload everything in this folder to the root of the repository: `index.html`, `manifest.webmanifest`, `sw.js`, `.nojekyll`, `README.md` and the `icons` folder. On github.com use **Add file → Upload files** and drag the files and the `icons` folder in, then **Commit changes**.
 3. Go to **Settings → Pages**. Under **Build and deployment**, set **Source** to **Deploy from a branch**, pick **main** and **/ (root)**, and save.
-4. After a minute or two the site is live at `https://<your-username>.github.io/rep-match/`.
+4. After a minute or two the site is live at `https://<your-username>.github.io/everyday-athlete/`.
 
 ## Add it to your iPhone Home Screen
 
